@@ -1,7 +1,7 @@
 # Hi, I'm Bhaskar Pandey 
-**Senior Full Stack & App Developer | 5.5+ Years Experience | MERN Stack | AWS | ERP & CRM Specialist**
+**Senior Full Stack & App Developer | 6 Years Experience | MERN Stack | AWS | ERP & CRM Specialist**
 
-🚀 I’m a Full Stack Developer with 5.5+ years of experience building scalable web and mobile applications, including ERP systems, CRMs, and e-commerce platforms. I specialize in both frontend and backend development, cloud deployment, and system architecture.
+🚀 I’m a Full Stack Developer with 6 years of experience building scalable web and mobile applications, including ERP systems, CRMs, and e-commerce platforms. I specialize in both frontend and backend development, cloud deployment, and system architecture.
 
 ---
 
